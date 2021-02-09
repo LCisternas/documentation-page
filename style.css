@@ -1,0 +1,49 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+body {
+    background-color: black;
+}
+.main {
+    background-color: white;
+    display: flex;
+    padding: 0px;
+}
+.nav-bar {
+    background-color: teal;
+    width: 20%;
+    padding: 0px;
+    border-left: black 1px solid;
+    border-right:black 4.5px solid;
+    margin: 0px;
+    padding: 0px;
+}
+.box-title {
+    background-color: tomato;
+    margin: 0px;
+    border-bottom: black 1px solid;
+}
+.box {
+    background-color: thistle;
+    margin: 0px;
+    border-bottom: black 1px solid;
+    padding: 12px;
+}
+.box a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.1rem;
+}
+.box a:hover {
+    text-decoration: underline;
+}
+.info {
+    background-color: violet;
+    width: 80%;
+    margin: 0px;
+    padding: 0px;
+}
+.info-box {
+    background-color: wheat;
+}
